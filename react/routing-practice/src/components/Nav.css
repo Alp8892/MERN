@@ -1,0 +1,14 @@
+nav {
+    background-color: green;
+    border: 2px solid black;
+}
+nav ul li {
+    display: inline-block;
+    justify-content: space-around;
+    padding: 1rem;
+}
+.active {
+    color: blue;
+    text-decoration: underline;
+    font-weight: bold;
+}

@@ -1,0 +1,14 @@
+.App {
+  background-color: #dddddd;
+  padding: 20px;
+  border: solid 2px black;
+}
+.mainPage {
+  display: flex;
+  justify-content: space-between;
+}
+.subs {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
